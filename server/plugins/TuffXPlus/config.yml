@@ -10,7 +10,15 @@ y0:
 
   # Worlds for y0 to be enabled in
   enabled-worlds:
+    - 'speedrun'
+    - 'gimu'
     - 'world'
+    - 'world_nether'
+    - 'world_the_end'
+    - 'spawn'
+    - 'plots'
+    - 'survival'
+    - 'anarchy'
 
   # The amount of threads for the chunk processor to use - using more threads processes chunks faster, but increases CPU usage
   # -1 is automatic

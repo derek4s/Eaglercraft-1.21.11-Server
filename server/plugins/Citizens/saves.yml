@@ -28,9 +28,9 @@ npc:
         x: 21.7605
         y: 11.0
         z: 21.587
-        bodyYaw: 109.38678
-        pitch: 20.2341
-        yaw: 129.3868
+        bodyYaw: 77.150894
+        pitch: 75.7092
+        yaw: 77.1509
       type: PLAYER
     traitnames: owner,scoreboardtrait,spawned,rotationtrait,skintrait,lookclose,location,type,inventory,chunktickettrait
     name: Survival
@@ -66,9 +66,9 @@ npc:
         x: 21.7776
         y: 11.0
         z: 13.5329
-        bodyYaw: 84.33699
-        pitch: 15.1348
-        yaw: 84.337
+        bodyYaw: 4.991829
+        pitch: 18.8817
+        yaw: 4.9918
       type: PLAYER
     traitnames: owner,scoreboardtrait,spawned,rotationtrait,skintrait,lookclose,location,type,inventory,targetable,chunktickettrait
     name: Creative
@@ -104,9 +104,9 @@ npc:
         x: 21.4194
         y: 11.0
         z: 5.5087
-        bodyYaw: 26.666718
-        pitch: 23.1333
-        yaw: 26.6667
+        bodyYaw: 18.123001
+        pitch: 19.304
+        yaw: 18.123
       type: PLAYER
     traitnames: owner,scoreboardtrait,spawned,rotationtrait,skintrait,lookclose,location,type,inventory,chunktickettrait
     name: Anarchy
@@ -147,9 +147,9 @@ npc:
         x: -630.4885
         y: 116.0
         z: -70.5098
-        bodyYaw: 0.13152313
+        bodyYaw: 8.6692505
         pitch: 0.0
-        yaw: 0.1315
+        yaw: 8.6693
       type: PLAYER
     traitnames: owner,scoreboardtrait,spawned,rotationtrait,commandtrait,skintrait,lookclose,location,type,inventory,chunktickettrait
     name: Jmo_fr
@@ -185,9 +185,9 @@ npc:
         x: 21.7099
         y: 11.0
         z: 29.3492
-        bodyYaw: 48.57135
-        pitch: -22.6039
-        yaw: 48.5714
+        bodyYaw: 155.11514
+        pitch: 20.2836
+        yaw: 175.1151
       type: PLAYER
     traitnames: owner,scoreboardtrait,spawned,rotationtrait,skintrait,lookclose,location,type,inventory,targetable,chunktickettrait
     name: One Block

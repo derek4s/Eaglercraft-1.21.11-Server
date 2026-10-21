@@ -36,6 +36,59 @@ BigPlots:
   spawning: {}
   world-blacklist: []
   version: 1.2
+Nether:
+  adjust-spawn: true
+  alias: ''
+  allow-advancement-grant: true
+  allow-flight: false
+  allow-weather: true
+  anchor-respawn: true
+  auto-heal: true
+  auto-load: true
+  bed-respawn: true
+  biome: ''
+  difficulty: easy
+  entry-fee:
+    enabled: false
+    amount: 0.0
+    currency: '@vault-economy'
+  environment: nether
+  gamemode: survival
+  generator: ''
+  hidden: false
+  hunger: true
+  keep-spawn-in-memory: false
+  player-limit: -1
+  portal-form: all
+  pvp: true
+  respawn-world: ''
+  scale: 8.0
+  seed: 1364798349553041418
+  spawn-location:
+    ==: MVSpawnLocation
+    x: 16.0
+    y: 60.0
+    z: 0.0
+    pitch: 0.0
+    yaw: 0.0
+  spawning:
+    monster:
+      spawn: true
+      tick-rate: -1
+      spawn-limit: -1
+      exceptions: []
+    misc:
+      spawn: true
+      tick-rate: -1
+      spawn-limit: -1
+      exceptions: []
+    animal:
+      spawn: true
+      tick-rate: -1
+      spawn-limit: -1
+      exceptions: []
+  world-blacklist: []
+  version: 1.2
 OneBlock:
   adjust-spawn: true
   alias: ''
@@ -270,7 +323,7 @@ spawn:
     amount: 0.0
     currency: '@vault-economy'
   environment: normal
-  gamemode: survival
+  gamemode: adventure
   generator: ''
   hidden: false
   hunger: true

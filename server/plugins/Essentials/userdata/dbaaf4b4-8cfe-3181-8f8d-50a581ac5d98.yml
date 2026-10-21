@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1792434839556
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1792435842980
+  login: 1792435832246
+money: '1.0E-29'
+last-account-name: Derek
+lastlocation:
+  world: e40c0e10-b55d-4ff6-8a39-6b57431348aa
+  world-name: OneBlock
+  x: 99.8258794715807
+  y: 65.0
+  z: 101.37395891025625
+  yaw: 80.70004272460938
+  pitch: 20.10000228881836
+logoutlocation:
+  world: 374a28ef-05b1-465a-a6d1-4f189b75bc86
+  world-name: survival
+  x: -632.2130209810156
+  y: 116.0
+  z: -73.45588314416322
+  yaw: 164.1000213623047
+  pitch: 10.49999713897705
+homes:
+  home:
+    world: 0287afd3-cc48-4e07-96f8-06b2585d811b
+    world-name: world
+    x: -8866095.398637852
+    y: 110.0
+    z: -6483710.721522201
+    yaw: 13.649627685546875
+    pitch: 54.74999237060547
